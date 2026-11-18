@@ -1,5 +1,5 @@
 package org.ioopm.calculator.ast;
 
-public class Assign extends Unary {
+public class Assignment extends Unary {
 
 }
