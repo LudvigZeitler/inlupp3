@@ -1,5 +1,5 @@
 package org.ioopm.calculator.ast;
 
-public class Addition extends Unary {
+public class Addition extends Binary {
 
 }
